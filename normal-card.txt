@@ -1,0 +1,22 @@
+<div class="container my-5">
+        <div class="row">
+            <div class="col-lg-2 ms-3">
+                <div class="card card-color mx-3 mt-4" style="width: 13rem;">
+                    <img src="{{ asset('image/game-file/undawn.jpg') }}" class="card-img-top"
+                        style="width: 206px; height: 206px;" alt="...">
+                    <div class="card-body">
+                        <div class="group" style="margin-bottom: 0;">
+                            <p class="caption-color text-center" style="margin-bottom: 0;">Garena</p>
+                            <h3 class="fw-bold text-center text-white" style="margin-top: 0;">Undawn</h3>
+                        </div>
+                        {{-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> --}}
+                        <center>
+                            <a href="#" class="btn btn-outline-warning w-75">Top Up</a>
+
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
